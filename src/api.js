@@ -1,4 +1,4 @@
-import SpotifyWebApi from 'spotifiy-web-api-js';
+import SpotifyWebApi from 'spotify-web-api-js';
 
 // Create an instance of the Spotify Web API clinet
 const spotifyApi = new SpotifyWebApi();

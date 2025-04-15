@@ -1,3 +1,12 @@
+/* Tailwind setup for global styles */
 body {
-  font-family: Arial, sans-serif;
+  @apply bg-black text-white font-sans;
+}
+
+h1 {
+  @apply text-5xl font-bold text-lime-500;
+}
+
+h2 {
+  @apply text-xl text-lime-400;
 }
